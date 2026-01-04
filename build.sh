@@ -3,7 +3,7 @@ echo "current user"
 whoami
 echo "current directory"
 pwd
-echo "list of files
+echo "list of files"
 ls -l
 echo "Files creating files from github script"
 touch day7_githubscipt.txt
