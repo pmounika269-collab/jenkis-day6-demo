@@ -9,3 +9,4 @@ echo "Files creating files from github script"
 touch day7_githubscipt.txt
 echo "build completed successfuly"
 echo "This trigger is by jenkins automatically done "
+echo  "hello this is new line"
